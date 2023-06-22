@@ -86,7 +86,7 @@ public class GenericTileProvider
      */
     public String getTileType()
     {
-        return "png";
+        return "jpg";
     }
 
     /**
